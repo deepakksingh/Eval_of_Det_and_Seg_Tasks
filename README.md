@@ -7,7 +7,9 @@ Authors:  Deepak Singh<sub>1</sub>,  Ameet Rahane<sub>2</sub>,  Ajoy Mondal<sub>
 To be presented at CVIP, 2021 (Oral)
 
 ------------
-[![cv tasks](INTRO_IMAGE_aDDRESS "cv tasks")](res/test.png "cv tasks")
+<p align="center">
+    <img src="https://github.com/deepakksingh/Eval_of_Det_and_Seg_Tasks/blob/main/res/github_cvip_readme.png">
+</p>
 ------------
 
 
